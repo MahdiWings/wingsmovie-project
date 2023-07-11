@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wingsmovie-project/static/css/main.58f706ee.css",
+    "main.js": "/wingsmovie-project/static/js/main.cc9c0ef5.js",
+    "index.html": "/wingsmovie-project/index.html",
+    "static/media/search.svg": "/wingsmovie-project/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.58f706ee.css.map": "/wingsmovie-project/static/css/main.58f706ee.css.map",
+    "main.cc9c0ef5.js.map": "/wingsmovie-project/static/js/main.cc9c0ef5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58f706ee.css",
+    "static/js/main.cc9c0ef5.js"
+  ]
+}
